@@ -123,7 +123,7 @@ Users can also modify the text or author of the interpretations by double clicki
 
 By default, the orb factors are defined as **1** degree. The valid unit is **degree-minute-second**. So users shouldn't delete the text field or shouldn't write a number such as **1.2**. The program will pop-up a warning message when the field is wrongly filled. So when users want to specify the orb factor as **+- 1.2** degree, the correct notation should be as **1° 2' 0"**.
 
-**18.** The forth menu cascade includes only the **About** menu button. By clicking that menu button, users can see the contact information and can update their scripts if any update is released.
+**18.** The forth menu cascade includes two menu buttons which names are **About** and **Check for updates**. By clicking **About** menu button, users can see the contact information; and by clicking **Check for updates** menu button, users can update their scripts if any update is released.
 
 ## Licenses
 
