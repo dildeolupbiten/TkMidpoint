@@ -104,7 +104,15 @@ except ModuleNotFoundError:
         file=[i for i in os.listdir(PATH) if "pyswisseph" in i],
         path=PATH
     )
-    import swisseph as swe
+    import swisseph as swe  
+try:
+    import shapely
+except ModuleNotFoundError:            
+    select_module(
+        name="shapely", 
+        file=[i for i in os.listdir(PATH) if "Shapely" in i],
+        path=PATH
+    )  
 
 swe.set_ephe_path(os.path.join(os.getcwd(), "Eph"))
 
