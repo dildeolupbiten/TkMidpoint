@@ -1,6 +1,6 @@
 # TkMidpoint
 
-**TkMidpoint** is a program that calculates the midpoints of astrological charts. There are several functions that is related to midpoints and all of them will be introduced here step by step. 
+**TkMidpoint** is a program that calculates the midpoints of astrological charts. There are several functions that are related to midpoints and all of them will be introduced here step by step. 
 
 ## Availability
  
