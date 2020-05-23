@@ -1,7 +1,6 @@
 <root>
 	<data midpoint="Sun | Moon" planet="Sun">
-		<text author="">ahaha
-</text>
+		<text author="" />
 	</data>
 	<data midpoint="Sun | Moon" planet="Moon">
 		<text author="" />
